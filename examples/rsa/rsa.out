@@ -1,0 +1,12 @@
+
+HELLO WORLD
+Generating keys..
+Keygen time:	54544
+Public(exp, mod): 65754933, 177640609
+Private(exp, mod): 257, 177640609
+Original:
+	123abcd
+Encrypting time:	417952
+Decrypting time:	2692621
+Decrypted:
+	123abcd

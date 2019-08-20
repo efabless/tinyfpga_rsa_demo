@@ -38,8 +38,8 @@
 ####
 
 # Uart
-set_io -nowarn SER_TX A2      # PIN 1
-set_io -nowarn SER_RX A1      # PIN 2
+set_io SER_TX A2      # PIN 1
+set_io SER_RX A1      # PIN 2
 
 # Audio
 set_io -nowarn AUDIO_LEFT B1   # PIN 3
